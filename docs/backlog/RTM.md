@@ -1,2 +1,0 @@
-# RTM
-Initial traceability matrix.
